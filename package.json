@@ -1,0 +1,25 @@
+{
+	"name": "libs-node",
+	"version": "1.0.0",
+	"description": "Node-Libs",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Joshuashaffer189/Libs-Node.git"
+	},
+	"author": "Joshua L Shaffer",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Joshuashaffer189/Libs-Node/issues"
+	},
+	"homepage": "https://github.com/Joshuashaffer189/Libs-Node#readme",
+	"devDependencies": {
+		"nodemon": "^2.0.4"
+	},
+	"dependencies": {
+		"express": "^4.17.1"
+	}
+}
